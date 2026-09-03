@@ -41,7 +41,7 @@ export default function WebXRCinema() {
     {
       id: 3,
       title: "Hottaping",
-      url: "/videos/vr-hottaping.mp4",
+      url: "/videos/vr-hottapping.mp4",
       hotspots: [
         { time: 3, title: "Ultra Slim Profile", description: "Industry-leading slim design for maximum accessibility" },
         { time: 12, title: "Precision Engineering", description: "Micro-adjustable settings for fine-tuned control" }
